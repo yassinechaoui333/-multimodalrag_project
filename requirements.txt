@@ -1,0 +1,9 @@
+-r requirements-inspection.txt
+chromadb
+langchain-core
+langchain-text-splitters
+langchain-chroma
+langchain-openai
+langgraph
+pytesseract
+streamlit

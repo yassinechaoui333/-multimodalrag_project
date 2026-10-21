@@ -1,0 +1,7 @@
+pymupdf
+pillow
+python-dotenv
+ipykernel
+nbformat
+nbclient
+jupyterlab
