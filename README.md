@@ -286,5 +286,5 @@ Live model quality still awaits the API key.
 
 ## Main libraries
 
-Python 3.12 -> JupyterLab -> Streamlit -> PyMuPDF -> Pillow -> Tesseract -> LangChain ?
+Python 3.12 -> JupyterLab -> Streamlit -> PyMuPDF -> Pillow -> Tesseract -> LangChain ->
 LangGraph -> OpenAI API -> ChromaDB -> Docker Compose.
